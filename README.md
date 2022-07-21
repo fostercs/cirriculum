@@ -1,6 +1,8 @@
 # Curriculum
 Curriculum development including planning, frameworks, boilerplate, dev, tst, prd, et.al.
 
+# Contribuiting
+
 # Courses
 - Data Science
 - Front-End
