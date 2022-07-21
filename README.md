@@ -3,8 +3,9 @@ Curriculum development including planning, frameworks, boilerplate, dev, tst, pr
 
 # Contribuiting
 - For starting out, there are a couple of resources that we would like to base the initial formation from. These are the following:
-[Standford EDU](https://codeinplace.stanford.edu/)
-[Google EDU](https://edu.google.com/intl/ALL_in/computer-science/)
+
+- [Standford EDU](https://codeinplace.stanford.edu/)
+- [Google EDU](https://edu.google.com/intl/ALL_in/computer-science/)
 
 # Courses
 - Data Science
