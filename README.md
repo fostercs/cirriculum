@@ -8,6 +8,11 @@ Curriculum development including planning, frameworks, boilerplate, dev, tst, pr
 - Algorithms
 - Computer Science
 
+# Languages
+- Go
+- ECMAScript
+- CPP
+
 # Equipment
 - Laptops
 `Supported hardware`
