@@ -40,3 +40,5 @@ Curriculum development including planning, frameworks, boilerplate, dev, tst, pr
 - City Hall
 - YMCA
 - Community Activity Center
+- Community College
+- University Library
