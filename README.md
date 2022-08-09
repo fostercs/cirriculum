@@ -19,21 +19,25 @@ Curriculum development including planning, frameworks, boilerplate, dev, tst, pr
 - ECMAScript
 - CPP
 
-# Equipment
+# Infrastructure
+- GitPod
+- Docker
+- VS Code
 - Laptops
 `Supported hardware`
 
-# Students
+# Pre-Qualifications
 - Determining interest in particular area of CS
 
 # Mentoring
 - Previous students
 
-# Professors
+# Staff
 - Volunteers, Contribuitors
 
 # Fundraising
 - Tee Shirts
+- Awareness Buttons
 
 # Local Community Action
 - Library
