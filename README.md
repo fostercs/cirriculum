@@ -1,8 +1,6 @@
-# Foster CS Curriculum
+# Foster CS Curriculum Development
 
-# Contribuiting
-- For starting out, there are a couple of resources that we would like to base the initial formation from. These are the following:
-
+# Inspiration
 - [Standford EDU](https://codeinplace.stanford.edu/)
 - [Google EDU](https://edu.google.com/intl/ALL_in/computer-science/)
 
