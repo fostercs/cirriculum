@@ -6,12 +6,8 @@
 - [Standford EDU](https://codeinplace.stanford.edu/)
 - [Google EDU](https://edu.google.com/intl/ALL_in/computer-science/)
 
-# Camps
-- CS, GO
-- DSA, ES6
-- DS, PY
-- ML, PY
-- K8S, GO
+# Bootcamps
+- CS & DSA with JS
 
 # Fundraising
 - Tee Shirts
