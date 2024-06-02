@@ -5,7 +5,7 @@
 - [Google EDU](https://edu.google.com/intl/ALL_in/computer-science/)
 
 # Bootcamps
-- [CS & DSA with JS - Under Active Development](https://github.com/fostercs/cs-dsa-js-bootcamp)
+- [CS & DSA with JS - Under Active Development](https://github.com/fostercs/dsa-cs-js)
 
 # Fundraising
 - Tee Shirts
