@@ -1,5 +1,9 @@
 # Foster CS Curriculum Development
 
+# Current Curriculums (In Development)
+- [JS101](https://replit.com/@CodeAlongStudio/JS101#README.md)
+- [GO101](https://fostercs.wpengine.com/?courses=computer-science-basics-with-go)
+
 # Inspiration
 - [Standford EDU](https://codeinplace.stanford.edu/)
 - [Google EDU](https://edu.google.com/intl/ALL_in/computer-science/)
