@@ -1,6 +1,6 @@
 # Foster CS Curriculum Development
 
-# Current Curriculums (In Development)
+# Curriculum (In Development)
 - [JS101](https://replit.com/@CodeAlongStudio/JS101#README.md)
 - [GO101](https://fostercs.wpengine.com/?courses=computer-science-basics-with-go)
 
@@ -16,8 +16,7 @@
 - Awareness Buttons
 
 # Local Community Action
-- Library
-- City Hall
+- City or County Library
 - YMCA
 - Community Activity Center
 - Community College
