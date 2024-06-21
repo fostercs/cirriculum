@@ -1,5 +1,7 @@
 # Foster CS Curriculum Development
 
+- [Syllabus](https://github.com/fostercs/fostercs-syllabus/tree/main)
+
 # Curriculum (In Development)
 - [JS101](https://replit.com/@CodeAlongStudio/JS101#README.md)
 - [GO101](https://fostercs.wpengine.com/?courses=computer-science-basics-with-go)
