@@ -4,7 +4,7 @@
 
 # Curriculum (In Development)
 - [JS101](https://replit.com/@CodeAlongStudio/JS101#README.md)
-- [GO101](https://fostercs.wpengine.com/?courses=computer-science-basics-with-go)
+- [GO101](https://replit.com/@CodeAlongStudio/GO101#README.md)
 
 # Inspiration
 - [Standford EDU](https://codeinplace.stanford.edu/)
