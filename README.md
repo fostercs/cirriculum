@@ -1,6 +1,6 @@
 # Foster CS Curriculum Development
 
-- [Syllabus](https://github.com/fostercs/fostercs-syllabus/tree/main)
+- [Syllabus](https://github.com/fostercs/syllabus/tree/main)
 
 # Curriculum (In Development)
 - [JS101](https://replit.com/@CodeAlongStudio/JS101#README.md)
