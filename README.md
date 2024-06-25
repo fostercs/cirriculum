@@ -1,5 +1,5 @@
 # Start Here
-- [Syllabus](https://github.com/fostercs/syllabus/tree/main)
+- [Foster CS Syllabus](https://github.com/fostercs/syllabus/tree/main)
 
 # Additional Resources
 - [Standford EDU](https://codeinplace.stanford.edu/)
