@@ -15,7 +15,6 @@
 
 # Community Action
 - City or County Library
-- YMCA
 - Community Activity Center
 - Community College
 - University Library
