@@ -8,6 +8,8 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Computer Science Flash Cards](https://github.com/jwasham/computer-science-flash-cards)
 - [Awesome CS Courses](https://github.com/dqfan2012/awesome-courses)
+- [Mastering Go](https://github.com/mhackersu/mastering-go)
+- [Mastering Ruby](https://github.com/mhackersu/mastering-ruby)
 
 # Fundraising
 - Tee Shirts
