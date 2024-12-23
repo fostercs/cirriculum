@@ -2,6 +2,7 @@
 - [Foster CS Syllabus](https://github.com/fostercs/syllabus/tree/main)
 
 # Additional Resources
+- [NITC EXPL Program](https://silcnitc.github.io/)
 - [Standford EDU](https://codeinplace.stanford.edu/)
 - [Google EDU](https://edu.google.com/intl/ALL_in/computer-science/)
 - [Open Source Society University](https://github.com/ossu/computer-science)
